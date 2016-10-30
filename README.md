@@ -1,3 +1,2 @@
-# petulant-octo-moo create a first code
-#thank you for you use this code 
-#if you have any qustion or advise, you can commicate me on super_big_hero@sina.com
+# Overwrite code for Hyperion1.x use C
+### And now is just for test, and maybe some day can achive the goal
